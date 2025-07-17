@@ -1,4 +1,4 @@
-SQL Queries
+-- SQL Queries
 
 CREATE TABLE cust_detail (
     Client_Num INT,

@@ -1,4 +1,3 @@
-DAX Queries
 
 AgeGroup = SWITCH(
 TRUE(),
